@@ -1,0 +1,12 @@
+body,input,img,a,ul,h1,h2,h3,h4,h5,h6,p,li,i,em,b,p{
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:12px;
+	text-decoration:none;
+	list-style:none;
+	font-family:"微软雅黑";
+}
+img{
+	border:0;
+}
